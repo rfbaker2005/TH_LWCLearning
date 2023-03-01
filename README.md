@@ -1,2 +1,2 @@
 # TH_LWCLearning
-Trailhead LWC Learning
+All things, Trailhead LWC Learning, great and small.
